@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "小さな頃から",
+  "base_artist": "JUDY AND MARY",
+  "createdAt": "2026-02-18T13:11:12.432374Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "小さな頃から",
+      "artist": "JUDY AND MARY",
+      "has_synced": false,
+      "path": "select/pl_01_小さな頃から_JUDY_AND_MARY.txt"
+    }
+  ]
+}
